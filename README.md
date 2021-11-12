@@ -1,6 +1,6 @@
-#Plain Java Project Demonstrating Kakfa Producer Consumer
+# Plain Java Project Demonstrating Kakfa Producer Consumer
 
-##References
+## References
 | # | File Name                                                                                  | Description                                               |
 |---|--------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | 1 | [SimpleProducer.java](src/main/java/com/aipeel/example01/SimpleProducer.java)             | A simple bare-bone producer                               |
@@ -9,8 +9,8 @@
 | 4 | [SimpleConsumer.java](src/main/java/com/aipeel/example01/SimpleConsumer.java)             | A simple bare-bone consumer                               |
 
 
-##Usage
-```aidl
+## Usage
+```
 git clone https://github.com/MurlidharVarma/kafka-java.git
 cd ./kafka-java
 mvn clean package
